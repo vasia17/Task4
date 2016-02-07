@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Accelerometer Observer Service</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_switch">Switch</string>
+    <string name="local_service_label">Acc Service</string>
+    <string name="local_service_started">Acc Service Started</string>
+    <string name="local_service_stopped">Acc Service Stopped</string>
+    <string name="local_service_connected">Acc service connected</string>
+    <string name="local_service_disconnected">Acc service disconnected</string>
+</resources>
